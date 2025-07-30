@@ -12,11 +12,7 @@
 This repository contains my learning journey and projects completed during the Infosys Springboard Virtual Internship – AI Track.  
 
 ### 🧠 Topics Covered
-- Introduction to Artificial Intelligence  
-- Machine Learning Fundamentals  
-- Deep Learning Concepts  
-- Computer Vision with Python  
-- Natural Language Processing  
+
 
 ---
 
@@ -33,4 +29,4 @@ This repository contains my learning journey and projects completed during the I
 ---
 
 ## 🔖 Tags
-`#AI` `#MachineLearning` `#Internship` `#InfosysSpringboard` `#Python` `#GitamUniversity`
+`#AI` `#MachineLearning` `#Internship` `#InfosysSpringboard` `#Python`
