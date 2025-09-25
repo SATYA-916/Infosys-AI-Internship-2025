@@ -1,4 +1,4 @@
-# Public Policy Navigation Using Ai
+# 📄 Public Policy Navigation Using AI
 
 🎓 **Intern:** Satya Sampath  
 🏫 **College:** GITAM University, Visakhapatnam  
@@ -9,21 +9,60 @@
 ---
 
 ## 📘 Overview
-This repository contains my learning journey and projects completed during the Infosys Springboard Virtual Internship – AI Track.  
+This project is part of my **Infosys Springboard Virtual Internship – AI Track**.  
+It focuses on using **AI-powered document understanding** to simplify navigation of **public policy documents**.  
 
-### 🧠 Topics Covered
-
-
----
-
-## 🚀 Projects (to be updated)
+The application extracts text from PDFs, splits it into smaller chunks, and enables interactive question-answering with **Ollama AI models**.
 
 ---
 
-## 📜 Certificate
-*Will be added after completion.*
+## 🛠️ Features
+- 📂 Upload PDF documentation  
+- ✂️ Automatic text extraction and cleaning  
+- 🔎 Chunking large documents into manageable pieces  
+- 🗂️ Convert chunks into JSON format  
+- 🤖 Query **Ollama AI ** on specific document chunks  
+- 📝 Maintain interaction history for review  
 
 ---
+
+## 🚀 Tech Stack
+- **Python 3**  
+- **Streamlit** – Web app framework  
+- **pdfplumber** – PDF text extraction  
+- **Ollama CLI** – AI model integration  
+- **JSON** – Data formatting  
+
+---
+
+## 📂 Project Structure
+📦 Public-Policy-Navigation-AI
+┣ 📜 app.py # Streamlit application
+┣ 📜 README.md # Documentation (this file)
+┣ 📂 outputs # Chunked JSON files (auto-generated)
+
+yaml
+Copy code
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SATYA-916/Public-Policy-Navigation-AI.git
+   cd Public-Policy-Navigation-AI
+Install dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the app:
+
+bash
+Copy code
+streamlit run app.py
+📜 Certificate
+(Will be added after completion of internship)
 
 ## 🔖 Tags
-`#AI` `#MachineLearning` `#Internship` `#InfosysSpringboard` `#Python`
+`#AI` `#Internship` `#InfosysSpringboard` `#Python`
