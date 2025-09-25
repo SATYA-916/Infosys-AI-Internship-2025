@@ -1,4 +1,4 @@
-# Infosys Springboard Virtual Internship 6.0 – AI Track
+# Public Policy Navigation Using Ai
 
 🎓 **Intern:** Satya Sampath  
 🏫 **College:** GITAM University, Visakhapatnam  
