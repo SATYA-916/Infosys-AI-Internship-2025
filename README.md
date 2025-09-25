@@ -17,9 +17,6 @@ This repository contains my learning journey and projects completed during the I
 ---
 
 ## 🚀 Projects (to be updated)
-1. **Project 1: [Coming Soon]**
-2. **Project 2: [Coming Soon]**
-3. **Mini Tasks and Code Snippets**
 
 ---
 
