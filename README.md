@@ -2,7 +2,7 @@
 
 🎓 **Intern:** Satya Sampath  
 🏫 **College:** GITAM University, Visakhapatnam  
-📅 **Internship Batch:** 6.0 (Batch 1, 2025)  
+📅 **Internship Batch:** 6.0 (Batch 15, 2025)  
 📂 **Track:** Artificial Intelligence  
 🔗 [LinkedIn](https://www.linkedin.com/in/satyasampath) | [GitHub](https://github.com/SATYA-916)
 
