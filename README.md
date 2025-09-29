@@ -1,5 +1,7 @@
 # 📄 Public Policy Navigation Using AI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 🎓 **Intern:** Satya Sampath  
 🏫 **College:** GITAM University, Visakhapatnam  
 📅 **Internship Batch:** 6.0 (Batch 15, 2025)  
@@ -21,7 +23,7 @@ The application extracts text from PDFs, splits it into smaller chunks, and enab
 - ✂️ Automatic text extraction and cleaning  
 - 🔎 Chunking large documents into manageable pieces  
 - 🗂️ Convert chunks into JSON format  
-- 🤖 Query **Ollama AI ** on specific document chunks  
+- 🤖 Query **Ollama AI** on specific document chunks  
 - 📝 Maintain interaction history for review  
 
 ---
@@ -34,6 +36,8 @@ The application extracts text from PDFs, splits it into smaller chunks, and enab
 - **JSON** – Data formatting  
 
 ---
+
+
 
 ## 📂 Project Structure
 📦 Public-Policy-Navigation-AI
